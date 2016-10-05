@@ -4,13 +4,27 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+<h1 class="page-heading">What's all of this about?</h1>
+<div><p>Candy donut tootsie roll marzipan cupcake cookie pastry tiramisu. Pie macaroon gummies jujubes marzipan. Candy canes candy icing cupcake bonbon pudding candy fruitcake. Donut wafer cake. Sugar plum marzipan powder pastry tiramisu dessert lollipop fruitcake. Tiramisu danish powder candy canes. Carrot cake cake cookie sugar plum. Cake fruitcake fruitcake sugar plum sweet roll.</p></div>
 
+  <h1 class="page-heading">Exercises</h1>
+
+  <ul class="post-list">
+    {% for exercise in site.exercises %}
+      <li>
+        <h2>
+          <a class="post-link" href="{{ exercise.url | prepend: site.baseurl }}">{{ exercise.title | escape }}</a>
+          <!-- <a class="post-link" href="{{ exercise.url | prepend: site.baseurl }}">{{ exercise.title | escape }}</a> -->
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <h1 class="page-heading">Posts</h1>
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
+        <!-- <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> -->
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
         </h2>
