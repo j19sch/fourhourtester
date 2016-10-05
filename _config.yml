@@ -18,8 +18,8 @@ email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Macaroon gingerbread brownie apple pie jelly dragée sesame snaps fruitcake cake. Oat cake donut lollipop gummi bears sweet.
   Muffin lemon drops gummies bonbon gummi bears soufflé sweet.
-# baseurl: "jekyllonia" # the subpath of your site, e.g. /blog
-url: "https://j19sch.github.io/jekyllonia" # the base hostname & protocol for your site
+baseurl: "/jekyllonia" # the subpath of your site, e.g. /blog
+url: "https://j19sch.github.io/" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
