@@ -5,9 +5,9 @@ date:   2016-10-14 20:01:31 +0200
 categories: jekyll update
 ---
 
-# Note taking
 ## Briefing
 Note taking is a skill that supports collecting and later analyzing information gathered during testing. This exercise helps to learn a structure for note taking. Here are some possible uses of note taking:
+
 - during
   - for yourself: structure thoughts, free up working memory, keep focus
   - for others: pair/mob-testing for shared understanding
@@ -21,6 +21,7 @@ base test report on
 
 ## Exercise
 Pick one feature in Google Calendar to test for 20 minutes. Look for interesting behaviors in this feature. Take notes about experiments and scenarios you try, results you observe, and questions that you come up with. Focus on taking more notes rather than less. Below are suggestions for structuring your notes and using helpful markup to use at the beginning of a bullet point/line.
+
 - Label the page with a title and a date
 - ? - question
 - ! - suspicious, bring to attention

@@ -1,11 +1,8 @@
 ---
 layout: post
-title:  "Interpretation"
-date:   2016-10-14 20:01:31 +0200
+title:  "Modeling"
 categories: jekyll update
 ---
-
-# Modelling
 
 ## Briefing
 Modeling software under test helps to analyze it, learn about it from different angles to be able to find useful test ideas. Depending on the kind of model you're building and on your personal preferences you can pick an appropriate format, e.g. a list, a mindmap or a diagram.
@@ -14,6 +11,7 @@ Modeling software under test helps to analyze it, learn about it from different 
 One way to explore different perspectives on an application is touring. Like you can tour a city looking for different things (museums, night clubs or theaters), you can also tour an application looking for different kinds of things.
 
 Michael Kelly came up with the following list of possible tours: FCC CUTS VIDS. Take a look at the list. It's ok if you don't fully understand all of them. For now we want to focus on the Configuration tour, User tour and the Data tour.
+
 - **Feature tour** ​ : Move through the application and get familiar with all the controls and features you come across.
 - **Complexity tour** ​ : Find the five most complex things about the application.
 - **Claims tour** ​ : Find all the information in the product that tells you what the product does.

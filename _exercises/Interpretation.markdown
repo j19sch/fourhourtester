@@ -1,11 +1,8 @@
 ---
 layout: post
 title:  "Interpretation"
-date:   2016-10-14 20:01:31 +0200
 categories: jekyll update
 ---
-
-# Interpretation
 
 ## Briefing
 Words mean different things to different people. And when we string words together into sentences, it gets only worse. So it's important to be aware of the many different interpretations people might give to one and the same sentence.
@@ -22,6 +19,7 @@ A good way to explore these different meanings is play of words. Of the many man
 |**Mary had**​ a little lamb  |... but John still has his           |
 
 And note that we didn't even yet go into the different possible meanings of "to have":
+
 - Mary owned a lamb.
 - Mary gave birth to a small sheep.
 - Mary ate some mutton.

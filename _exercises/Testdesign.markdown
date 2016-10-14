@@ -5,7 +5,6 @@ date:   2016-10-14 20:01:31 +0200
 categories: jekyll update
 ---
 
-# Test Design
 ## Briefing
 When you have a high-level idea about what to test - like for instance from the tours in the Modeling exercise - it's time to think about what and how exactly you are going to test. That thinking is called test design. Put differently, you have an idea about something you want to find out. Test design is coming up with and designing experiments that will help you to find that something out.
 
