@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Modeling"
+date:   2016-10-14 20:01:31 +0200
 categories: jekyll update
 ---
 
