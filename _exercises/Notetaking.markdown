@@ -1,8 +1,9 @@
 ---
 layout: default
 title:  "Note taking"
-date:   2016-10-14 20:01:31 +0200
-categories: jekyll update
+date:   2016-10-14 14:01:31 +0200
+categories: exercise
+contributor: Helena Jeret-Mäe, Joep Schuurkes
 ---
 
 ## Briefing

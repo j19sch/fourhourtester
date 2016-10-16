@@ -1,8 +1,9 @@
 ---
 layout: default
 title:  "Bug reporting"
-date:   2016-10-14 20:01:31 +0200
-categories: jekyll update
+date:   2016-10-14 15:01:31 +0200
+categories: exercise
+contributor: Helena Jeret-Mäe, Joep Schuurkes
 ---
 
 ## Briefing
