@@ -1,26 +1,20 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
-<head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>the four-hour tester</title>
-    <meta name="description" content="Can you learn the skills of a tester in four hours?">
-    <link rel="stylesheet" href="http://www.fourhourtester.net/css/main.css">
-    <link rel="canonical" href="http://www.fourhourtester.net/">
-    <link rel="alternate" type="application/rss+xml" title="the four-hour tester" href="http://www.fourhourtester.net/feed.xml">
-</head>
+  {% include head.html %}
 
-<body>
+  <body>
+
     {% include header.html %}
-    <main class="page-content" aria-label="Content">
-        <div class="wrapper">
-            {{content}}
-        </div>
-    </main>
-        {% include footer.html %}
 
-</body>
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    {% include footer.html %}
+
+  </body>
 
 </html>

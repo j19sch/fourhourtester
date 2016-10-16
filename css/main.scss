@@ -37,3 +37,8 @@ $on-laptop:        800px;
 
 // Import partials from the `minima` theme.
 @import "minima";
+
+// customization
+.post-link { font-size: 20px; }
+.page-heading {font-size: 24px;}
+.post-list > li { margin-bottom: 15px; }
