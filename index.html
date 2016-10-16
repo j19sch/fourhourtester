@@ -13,7 +13,7 @@ layout: default
     {% for exercise in site.exercises %}
       <li>
         <h2>
-          <a class="post-link" href="{{ exercise.url | prepend: site.baseurl }}">{{ exercise.title | escape }}</a>
+          <a class="post-link" href="{{ exercise.url }}">{{ exercise.title | escape }}</a>
         </h2>
       </li>
     {% endfor %}
