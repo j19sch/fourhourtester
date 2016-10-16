@@ -16,7 +16,7 @@ One way to remember these basics is Michael Bolton's ​ PEW​ heuristic:
 - **W**hy - why is this a problem? Based on what do you consider this problem a bug? The why is the evaluation of the problem and example description. Why is what you described a bug or problem? Based on what are you saying that the behaviour you described is not as it should be?
 
 ## Exercise
-1. Read the following blog post about an old bug in Google Calendar: http://shkspr.mobi/blog/2014/01/another-google-privacy-flaw/
+1. Read the following blog post about an old bug in Google Calendar: <a href="http://shkspr.mobi/blog/2014/01/another-google-privacy-flaw/">http://shkspr.mobi/blog/2014/01/another-google-privacy-flaw/</a>
 1. Using the heuristic write down the Problem, Example and Why of this bug.
 
 ## Evaluation
@@ -35,4 +35,4 @@ After a few hours or days:
 ---
 
 #### Sources
-- http://www.developsense.com/blog/2011/12/scripts-or-no-scripts/
+- <a href="http://www.developsense.com/blog/2011/12/scripts-or-no-scripts/">http://www.developsense.com/blog/2011/12/scripts-or-no-scripts/</a>

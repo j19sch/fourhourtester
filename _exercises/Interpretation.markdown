@@ -31,7 +31,7 @@ And note that we didn't even yet go into the different possible meanings of "to 
 Time limit in total: 30 minutes
 
 Take the second sentence from this quote and apply Mary had a little lamb:
-_"You can add reminders in Google Calendar. Reminders carry over to the next day until you mark them as done. For example, if you create a reminder to make a restaurant reservation, you'll see the reminder each day until you mark it as done."_ - https://support.google.com/calendar/answer/6285327?hl=en&ref_topic=6076998
+_"You can add reminders in Google Calendar. Reminders carry over to the next day until you mark them as done. For example, if you create a reminder to make a restaurant reservation, you'll see the reminder each day until you mark it as done."_ - <a href="https://support.google.com/calendar/answer/6285327?hl=en&ref_topic=6076998">https://support.google.com/calendar/answer/6285327?hl=en&ref_topic=6076998</a>
 
 Come up with at least 10 different interpretations.
 
@@ -45,5 +45,5 @@ Come up with at least 10 different interpretations.
 #### Sources
 - Exploring Requirements: Quality Before Design - Donald C. Gause, Gerald M. Weinberg
 - Are Your Lights On?: How to Figure Out What the Problem Really Is - Gerald M. Weinberg
-- https://jvenugop.wordpress.com/2010/03/18/gerald-weinberg-on-figuring-out-the-real-problem/
-- http://www.seilevel.com/requirements/the-art-and-science-of-disambiguation
+- <a href="https://jvenugop.wordpress.com/2010/03/18/gerald-weinberg-on-figuring-out-the-real-problem/"> https://jvenugop.wordpress.com/2010/03/18/gerald-weinberg-on-figuring-out-the-real-problem/</a>
+- <a href="http://www.seilevel.com/requirements/the-art-and-science-of-disambiguation">http://www.seilevel.com/requirements/the-art-and-science-of-disambiguation</a>

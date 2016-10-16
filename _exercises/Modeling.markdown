@@ -39,4 +39,4 @@ Apply the following tours to Google Calendar. Take 5 minutes for each tour.
 ---
 
 #### Sources
-- http://michaeldkelly.com/blog/2005/9/20/touring-heuristic.html
+- <a href="http://michaeldkelly.com/blog/2005/9/20/touring-heuristic.html">http://michaeldkelly.com/blog/2005/9/20/touring-heuristic.html</a>

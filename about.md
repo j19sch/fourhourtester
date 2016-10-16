@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+The idea for this site came to us while we were working on our presentation for [TestBash Manchester 2016](http://www.ministryoftesting.com/training-events/testbash-manchester/): The 4-hour Tester Experiment.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+If you want to contribute any exercises or solutions, you can either send us a mail at [fourhourtester@gmail.com](mailto:fourhourtester@gmail.com) or submit a pull request to [the repository of this site](https://j19sch.github.io/fourhourtester).
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+_Helena Jeret-Mäe and Joep Schuurkes_
