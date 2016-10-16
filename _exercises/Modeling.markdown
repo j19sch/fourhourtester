@@ -28,6 +28,7 @@ Michael Kelly came up with the following list of possible tours: FCC CUTS VIDS. 
 
 ## Exercise
 Apply the following tours to Google Calendar. Take 5 minutes for each tour.
+
 1. User tour (instead of five users, do this for one: yourself)
 1. Data tour
 1. Configuration tour
