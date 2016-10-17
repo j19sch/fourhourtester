@@ -1,6 +1,6 @@
 ---
-layout: default
-title:  "Modeling"
+layout: exercise
+title:  Modeling
 date:   2016-10-14 12:01:31 +0200
 categories: exercise
 contributor: Helena Jeret-Mäe, Joep Schuurkes

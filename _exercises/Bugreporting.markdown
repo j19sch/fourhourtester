@@ -1,6 +1,6 @@
 ---
-layout: default
-title:  "Bug reporting"
+layout: exercise
+title:  Bug reporting
 date:   2016-10-14 15:01:31 +0200
 categories: exercise
 contributor: Helena Jeret-Mäe, Joep Schuurkes

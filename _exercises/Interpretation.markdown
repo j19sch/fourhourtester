@@ -1,6 +1,6 @@
 ---
-layout: default
-title:  "Interpretation"
+layout: exercise
+title:  Interpretation
 date:   2016-10-14 11:01:31 +0200
 categories: exercise
 contributor: Helena Jeret-Mäe, Joep Schuurkes
