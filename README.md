@@ -13,6 +13,9 @@
 1. rename the file, move it to `_exercises` and add your content
 1. submit a pull request
 
+### Contributing a solution to an exercise
+It's basically the same as contributing an exercise, except you grab `templates/Solution-template.markdown` and it goes into the `_solutions` folder.
+
 ### Running locally
 1. (first time only) `bundle install` to install Jekyll
 1. edit `_config.yml` so url is pointing to local host, otherwise links in the header will point to actual site
