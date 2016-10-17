@@ -18,7 +18,10 @@ email: fourhourtester@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Can you learn the skills of a tester in four hours?
 url: "http://www.fourhourtester.net"
-#url: "http://127.0.0.1:4000"
+# url: "http://127.0.0.1:4000"
+
+# Google analytics
+google_analytics: UA-85869003-1
 
 # Build settings
 markdown: kramdown
