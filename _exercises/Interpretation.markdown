@@ -27,18 +27,18 @@ And note that we didn't even yet go into the different possible meanings of "to 
 - Mary ate some mutton.
 - Mary conned a mild-mannered person.
 
-## Exercise
-Time limit in total: 30 minutes
+As you can see, a lot of different meanings can be found in this simple five-word sentence - if you look for them.
 
-Take the second sentence from this quote and apply Mary had a little lamb:
+## Exercise
+Apply "Mary had a little lamb" to the second sentence of this quote:
 _"You can add reminders in Google Calendar. Reminders carry over to the next day until you mark them as done. For example, if you create a reminder to make a restaurant reservation, you'll see the reminder each day until you mark it as done."_ - <a href="https://support.google.com/calendar/answer/6285327?hl=en&ref_topic=6076998">https://support.google.com/calendar/answer/6285327?hl=en&ref_topic=6076998</a>
 
-Come up with at least 10 different interpretations.
+Stress different words or groups of words and come up with at least 10 different interpretations.
 
 ## Evaluation
-1. Which interpretations are widely different from your own initial one?
-1. How different could two implementations be, if their developers had two different interpretations?
-1. What kind of behaviors would be bugs based on one interpretation of the sentence but not on another?
+1. Has your interpretation of the sentence become richer through this exercise?
+1. How different could two implementations be, if their developers did not share all of these interpretations?
+1. Based on your different interpretations, where do you think are good places to look for bugs?
 
 ---
 

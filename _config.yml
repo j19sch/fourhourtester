@@ -33,3 +33,5 @@ gems:
 collections:
   exercises:
     output: true
+  solutions:
+    output: true
