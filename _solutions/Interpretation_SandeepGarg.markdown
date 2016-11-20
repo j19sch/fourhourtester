@@ -69,11 +69,11 @@ What if I am in a **different Time Zone** (time differences) when Reminder carri
 
 ## Evaluation
 
-1. **Has your interpretation of the sentence become richer through this exercise?**
+1) **Has your interpretation of the sentence become richer through this exercise?**
 
 Yes, Though I already studied "Mary had..." heuristic in past. It always helped in exploring Context, Constraints, Learning about how to read Requirements and Testing Opportunities
 
-2. **How different could two implementations be, if their developers did not share all of these interpretations?**
+2) **How different could two implementations be, if their developers did not share all of these interpretations?**
 
 Considering the following Interpretations
 
@@ -83,7 +83,7 @@ Considering the following Interpretations
 
 While developing (Thinking, Designing Solution and Programming, BEFORE start coding), If developers (more precisely in Agile Teams, if team doesn't work on different interpretations) the end solution may not serve the purpose for which it is intended. Also, it may not have features, fault tolerance, charisma as compared to other comparable products in the market
 
-3. **Based on your different interpretations, where do you think are good places to look for bugs?**
+3) **Based on your different interpretations, where do you think are good places to look for bugs?**
 
 - Reminder CRUD Operations
 - Setting Reminder Frequencies
