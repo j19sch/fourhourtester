@@ -25,7 +25,7 @@ layout: default
         <h1 class="page-heading">Solutions</h1>
 
         <ul class="post-list">
-            {% for solution in site.solutions %}
+            {% for solution in site.solutions reversed %}
             <li style="display:flex;flex-wrap:nowrap;justify-content:flex-start;align-items:baseline">
                 <a class="post-link" href="{{ solution.url }}">{{ solution.title | escape }}</a>
                 <span class="contributor" style="margin-left: 0.5em; margin-top: 0em">by {{ solution.contributor }}</span>
