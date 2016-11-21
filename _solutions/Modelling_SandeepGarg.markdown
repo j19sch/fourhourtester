@@ -107,20 +107,20 @@ _Data items which we can set in Calendar Settings_
 3. Internationalization and Localization Testing
  
 
-**_-- Configuration Tour - What I would want to Explore, Understand, Check and then Test --_**
+**_-- Configuration Tour_ - What I would want to Explore, Understand, Check and then Test --_**
 
-1. _Labs ideas about _
+1. _Labs ideas about_
 
 1.1 Automatically Declining Events
 1.2 Background images for different calendars
 1.3 Free or Busy
 
-_2. Calendars_
+2. _Calendars_
 
 2.1 Calendars I can only view
 2.2 Import, Export calendar
 
-_3. General _
+3. _General_
 
 3.1 Speedy Meetings
 3.2 Event Dimming
