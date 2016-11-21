@@ -70,7 +70,7 @@ Probably one of the easy one to look at, because here I can concentrate on Setti
 
 _Display Density_
 
-_Settings _- Language, Country, Time Zones, Weather, etc.
+_Settings_ - Language, Country, Time Zones, Weather, etc.
 
 _Unsubscribe Feature_
 
@@ -86,7 +86,7 @@ _Labs_ - Latest ideas to customize the calendar settings
 
 3. _Sync Feature Test_ - Checking out how it syncs different calendar If I go to create my calendar let’s say by choosing some dates from US Holidays, India Holidays, My Vacations and my Wife vacation dates
 
-4._ Exploring APIs used by this application_ – App making API calls while CRUD operations, Importing/Exporting over the web, Sharing calendars, etc.
+4. _Exploring APIs used by this application_ – App making API calls while CRUD operations, Importing/Exporting over the web, Sharing calendars, etc.
 
 
 **_-- Data Tour - What I would want to Explore, Understand, Check and then Test --_**
@@ -111,24 +111,17 @@ _Data items which we can set in Calendar Settings_
 
 1. _Labs ideas about_
 
-1.1 Automatically Declining Events
-1.2 Background images for different calendars
-1.3 Free or Busy
+Automatically Declining Events, Background images for different calendars, Free or Busy
 
 2. _Calendars_
 
-2.1 Calendars I can only view
-2.2 Import, Export calendar
+Calendars I can only view, Import, Export calendar
 
 3. _General_
 
-3.1 Speedy Meetings
-3.2 Event Dimming
-3.3 Weather
-3.4 Adding Video Calls
-3.5 Keyboard Shortcuts
+Speedy Meetings, Event Dimming, Weather, Adding Video Calls, Keyboard Shortcuts
 
- **_Above tests are interesting from exploring application perspective with intent "how does it behave" and "what is the learning." Understanding how application is acting with different types of data, combination of data, sequence of data may help in identifying a pattern which will guide the testing_**
+**_Above tests are interesting from exploring application perspective with intent "how does it behave" and "what is the learning." Understanding how application is acting with different types of data, combination of data, sequence of data may help in identifying a pattern which will guide the testing_**
 
 
 ---
