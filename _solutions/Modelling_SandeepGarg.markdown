@@ -14,11 +14,11 @@ When I first pulled up Google Calendar (not exactly now, it was a long time back
 
 So, coming to Why, I have reasons…the reasons as a user.
 
-1. I use and admire such applications with a different 'taste'.  Here, 'taste' is a subjective thing but being a user, this contributes to biases. The way I look at this application, I want to use it, I want it to fulfill my desires. 
+_A._ I use and admire such applications with a different 'taste'.  Here, 'taste' is a subjective thing but being a user, this contributes to biases. The way I look at this application, I want to use it, I want it to fulfill my desires. 
 
-2. I usually don’t use Google Calendar and most of the time its Outlook, my official calendar. Also, even in the digital age, I use to circle dates printed on the paper calendar placed on my office desk. 
+_B._ I usually don’t use Google Calendar and most of the time its Outlook, my official calendar. Also, even in the digital age, I use to circle dates printed on the paper calendar placed on my office desk. 
 
-3. Also, I am a bit bad at remembering dates, and I need a calendar, with a useful Reminder facility. Something that uses Data Analytics, so for example, If I set a reminder for doing a practice session for today night 19:00 PM IST and I don't mark it Done, then Google will set it for next day (as it claims and it does certainly). Fine, but what If I don’t do next day? My desire is, that, it should have the capability to analyze my “Not Done” behavior and probably next day, remind me with the help of some Notification "You are not marking your reminders done, what's going on" :). 
+_C._ Also, I am a bit bad at remembering dates, and I need a calendar, with a useful Reminder facility. Something that uses Data Analytics, so for example, If I set a reminder for doing a practice session for today night 19:00 PM IST and I don't mark it Done, then Google will set it for next day (as it claims and it does certainly). Fine, but what If I don’t do next day? My desire is, that, it should have the capability to analyze my “Not Done” behavior and probably next day, remind me with the help of some Notification "You are not marking your reminders done, what's going on" :). 
 
 After all, I am just a unique user of this app, and I am ’probably’ exploring (testing) for my best fit use. I am a user with different “wants” and my perspective of 'Quality.'
 
@@ -34,7 +34,7 @@ _So here are few Features I would love to have in this Calendar app_
 
 _Setting Reminders through Voice -_ Birthdays (most forgotten), Anniversary, Bill Payment, My Training Days. So basically setting reminders. Through Voice, though (I would Love it). I don’t like typing in apps, supporting voice is needed.
 
-_Notification diversity (Email, WhatsApp, SMS, Voice assistance)_
+_Notification diversity_ Email, WhatsApp, SMS, Voice assistance
 
 _Create my Calendar_ - I am curious to use this feature, and I need to know what value it adds; how different it is from my standard calendar (Curious to Explore)
 
