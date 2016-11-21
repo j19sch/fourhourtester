@@ -1,16 +1,16 @@
 ---
 layout: Exercise
-title:  <Modelling>
-date:   <2016-11-21 21:45:00 +0530>
+title:  Modelling
+date:   2016-11-21 21:45:00 +0530
 categories: Exercise
-contributor: <Sandeep Garg>
+contributor: Sandeep Garg
 ---
 
 <!-- exercise title will be added automatically when generating page -->
 
 ## Briefing
 
-When I first pulled up Google Calendar (not exactly now, it was a long time back), I was confused on Why to use this and then How to use this app. Fortunately, this exercise required me to explore the same app. 
+When I first pulled up Google Calendar (not exactly now, it was a long time back), I was wondering on Why to use this and then How to use this app. Fortunately, this exercise required me to explore the same app. 
 
 So, coming to Why, I have reasons…the reasons as a user.
 
@@ -28,21 +28,23 @@ These all characteristics put my perspective as a user into a testing phenomenon
 ## Exercise
 
 
-**User Tour** So here are few Features I would love to have in this Calendar
+**User Tour** 
 
-**Setting Reminders through Voice -** Birthdays (most forgotten), Anniversary, Bill Payment, My Training Days. So basically setting reminders. Through Voice, though (I would Love it). I don’t like typing in apps, supporting voice is needed.
+_So here are few Features I would love to have in this Calendar app_
 
-**Notification diversity (Email, WhatsApp, SMS, Voice assistance)**
+_Setting Reminders through Voice -_ Birthdays (most forgotten), Anniversary, Bill Payment, My Training Days. So basically setting reminders. Through Voice, though (I would Love it). I don’t like typing in apps, supporting voice is needed.
 
-**Create my Calendar** - I am curious to use this feature, and I need to know what value it adds; how different it is from my standard calendar (Curious to Explore)
+_Notification diversity (Email, WhatsApp, SMS, Voice assistance)_
 
-**Importing / Sharing of Other Calendars **- I want to set my dates in sync with at least my Wife and some close friends, so that we can plan something together as we are all working - yes, I can do through some Taps, no issues (It would be great to see this)
+_Create my Calendar_ - I am curious to use this feature, and I need to know what value it adds; how different it is from my standard calendar (Curious to Explore)
 
-**Holidays **(at least India and the USA) - My work locations and from where people can often contact me - Voice would be excellent, but taps would work (A should have for such a brand)
+_Importing and Sharing of Other Calendars_ - I want to set my dates in sync with at least my Wife and some close friends, so that we can plan something together as we are all working - yes, I can do through some Taps, no issues (It would be great to see this)
 
-**Privacy of my data**
+_Holidays_ - My work locations and from where people can often contact me - Voice would be excellent, but taps would work (A should have for such a brand)
 
-**Note: **I didn’t explore the application yet except for setting a reminder by typing text and then using Google Now to set a reminder. Google Now is awesome
+_Privacy of my data_
+
+**Note:** I didn’t explore the application yet except for setting a reminder by typing text and then using Google Now to set a reminder. Google Now is awesome
 
 **Data Elements**: From Data elements, I interpret the "data” (input, output, stored) that this Calendar Application Takes in, process, store, transport, purge usually during CRUD operations, Migrations, Import / Export, and Reporting to name a few to start with
 
