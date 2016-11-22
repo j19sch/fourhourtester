@@ -1,8 +1,8 @@
 ---
-layout: Exercise
+layout: Solution
 title:  Modelling
 date:   2016-11-21 21:45:00 +0530
-categories: Exercise
+categories: Solution
 contributor: Sandeep Garg
 ---
 
