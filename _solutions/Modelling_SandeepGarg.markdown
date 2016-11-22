@@ -1,6 +1,6 @@
 ---
 layout: solution
-title:  Modelling
+title:  Modeling
 date:   2016-11-21 21:45:00 +0530
 categories: solution
 contributor: Sandeep Garg
