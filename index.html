@@ -40,7 +40,7 @@ layout: default
 		<h1 class="page-heading">Blog posts about the four-hour tester</h1>
 
 		<ul class="post-list">
-		    {% assign sorted_blogposts = (site.data.blogposts | sort: 'date' | reverse) %}
+		    {% assign sorted_blogposts = site.data.blogposts | sort: 'date' | reverse %}
 		    {% for post in sorted_blogposts %}
 		    <li style="display:flex;flex-wrap:nowrap;justify-content:flex-start;align-items:baseline">
 		        <a class="post-link" href="{{ post.url }}">{{ post.title | escape }}</a>

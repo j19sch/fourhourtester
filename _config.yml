@@ -27,7 +27,7 @@ google_analytics: UA-85869003-1
 markdown: kramdown
 theme: minima
 
-gems:
+plugins:
   - jekyll-seo-tag
 
 collections:
@@ -35,3 +35,7 @@ collections:
     output: true
   solutions:
     output: true
+
+exclude: [templates]
+
+github: [metadata]
