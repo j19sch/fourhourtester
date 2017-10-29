@@ -39,9 +39,10 @@ $on-laptop:        800px;
 @import "minima";page
 
 // customization
-.page-heading {font-size: 22px;}
-.post-link { font-size: 18px; }
-.post-list > li { margin-bottom: 15px; }
-hr {margin-top:2em; margin-bottom:0.5em}
+.page-heading { font-size: 22px;}
+.page-content { padding-top: 20px; padding-bottom: 20px}
+.post-link { font-size: 18px;}
+.post-list > li { margin-bottom: 15px;}
+hr { margin-top:2em; margin-bottom:0.5em}
 .post-title { font-size: 32px;}
-.contributor {font-size: 13px; font-style: italic; margin-left: 1.2em; margin-top: -0.8em}
+.contributor { font-size: 14px; font-style: italic; margin-left: 1.2em; margin-top: -0.8em}

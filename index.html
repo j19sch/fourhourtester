@@ -8,7 +8,8 @@ layout: default
         <p>If you would like to help this site grow by contributing solutions or new exercises, please head over to the <a href="{{ site.url }}/about">About page</a> to find out how. It's easy, we promise!</p>
     </div>
 
-    <div class="page-content">
+<div style="display:flex;flex-wrap:wrap;justify-content:space-between;align-items:baseline">
+    <div class="page-content" style="flex-basis: 50%">
 
         <h1 class="page-heading">Exercises</h1>
 
@@ -20,17 +21,33 @@ layout: default
             {% endfor %}
         </ul>
     </div>
-    <div class="page-content">
+    <div class="page-content" style="flex-basis: 50%">
 
-        <h1 class="page-heading">Solutions</h1>
+		<h1 class="page-heading">Solutions</h1>
 
-        <ul class="post-list">
-            {% for solution in site.solutions reversed %}
-            <li style="display:flex;flex-wrap:nowrap;justify-content:flex-start;align-items:baseline">
-                <a class="post-link" href="{{ solution.url }}">{{ solution.title | escape }}</a>
-                <span class="contributor" style="margin-left: 0.5em; margin-top: 0em">by {{ solution.contributor }}</span>
-            </li>
-            {% endfor %}
-        </ul>
+		<ul class="post-list">
+		    {% for solution in site.solutions reversed %}
+		    <li style="display:flex;flex-wrap:nowrap;justify-content:flex-start;align-items:baseline">
+		        <a class="post-link" href="{{ solution.url }}">{{ solution.title | escape }}</a>
+		        <span class="contributor" style="margin-left: 0.5em; margin-top: 0em">by {{ solution.contributor }}</span>
+		    </li>
+		    {% endfor %}
+		</ul>
     </div>
 </div>
+    <div class="page-content">
+
+		<h1 class="page-heading">Blog posts about the four-hour tester</h1>
+
+		<ul class="post-list">
+		    {% assign sorted_blogposts = (site.data.blogposts | sort: 'date') %}
+		    {% for post in sorted_blogposts reversed %}
+		    <li style="display:flex;flex-wrap:nowrap;justify-content:flex-start;align-items:baseline">
+		        <a class="post-link" href="{{ post.url }}">{{ post.title | escape }}</a>
+		        <span class="contributor" style="margin-left: 0.5em; margin-top: 0em">by {{ post.author }}</span>
+		    </li>
+		    {% endfor %}
+		</ul>
+    </div>
+</div>
+
