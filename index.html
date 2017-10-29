@@ -27,7 +27,7 @@ layout: default
 
 		<ul class="post-list">
 		    {% for solution in site.solutions reversed %}
-		    <li style="display:flex;flex-wrap:nowrap;justify-content:flex-start;align-items:baseline">
+		    <li style="display:flex;flex-wrap:wrap;justify-content:flex-start;align-items:baseline">
 		        <a class="post-link" href="{{ solution.url }}">{{ solution.title | escape }}</a>
 		        <span class="contributor" style="margin-left: 0.5em; margin-top: 0em">by {{ solution.contributor }}</span>
 		    </li>
@@ -42,7 +42,7 @@ layout: default
 		<ul class="post-list">
 		    {% assign sorted_blogposts = site.data.blogposts | sort: 'date' | reverse %}
 		    {% for post in sorted_blogposts %}
-		    <li style="display:flex;flex-wrap:nowrap;justify-content:flex-start;align-items:baseline">
+		    <li style="display:flex;flex-wrap:wrap;justify-content:flex-start;align-items:baseline">
 		        <a class="post-link" href="{{ post.url }}">{{ post.title | escape }}</a>
 		        <span class="contributor" style="margin-left: 0.5em; margin-top: 0em">by {{ post.author }}</span>
 		    </li>
