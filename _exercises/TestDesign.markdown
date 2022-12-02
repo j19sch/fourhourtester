@@ -26,4 +26,4 @@ exercises the same? In what way were they different?
 ---
 
 #### Sources
-- <a href="http://testobsessed.com/wp-content/uploads/2011/04/testheuristicscheatsheetv1.pdf">http://testobsessed.com/wp-content/uploads/2011/04/testheuristicscheatsheetv1.pdf</a>
+- <a href="https://www.ministryoftesting.com/dojo/lessons/test-heuristics-cheat-sheet">https://www.ministryoftesting.com/dojo/lessons/test-heuristics-cheat-sheet</a>
