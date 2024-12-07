@@ -16,7 +16,7 @@ layout: default
         <ul class="post-list">
             {% for exercise in site.exercises %}
             <li>
-                <a class="post-link" href="{{ exercise.url }}">{{ exercise.title | escape }}</a>
+                <a class="post-link" href="{{ exercise.url | relative_url }}">{{ exercise.title | escape }}</a>
             </li>
             {% endfor %}
         </ul>
@@ -28,7 +28,7 @@ layout: default
 		<ul class="post-list">
 		    {% for solution in site.solutions reversed %}
 		    <li style="display:flex;flex-wrap:wrap;justify-content:flex-start;align-items:baseline">
-		        <a class="post-link" href="{{ solution.url }}">{{ solution.title | escape }}</a>
+		        <a class="post-link" href="{{ solution.url | relative_url }}">{{ solution.title | escape }}</a>
 		        <span class="contributor" style="margin-left: 0.5em; margin-top: 0em">by {{ solution.contributor }}</span>
 		    </li>
 		    {% endfor %}

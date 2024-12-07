@@ -21,6 +21,8 @@ url: "https://smallsheds.garden"
 baseurl: "/fourhourtester"
 # url: "http://127.0.0.1:4000"
 
+permalink: /fourhourtester/:categories/:title
+
 # Build settings
 markdown: kramdown
 theme: minima
