@@ -12,7 +12,7 @@
             <h1 class="post-title">Solution to
               {% for exercise in site.exercises %}
                 {% if exercise.title == page.title %}
-                  <a href="{{ site.url }}{{ exercise.url }}">{{exercise.title | escape}}</a>
+                  <a href="{{ site.url }}{{ exercise.url | relative_url }}">{{exercise.title | escape}}</a>
                   {% break %}
                 {% endif %}
               {% endfor %}
