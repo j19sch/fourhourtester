@@ -1,6 +1,6 @@
 <header class="site-header" role="banner">
     <div class="wrapper">
-        <a class="site-title" href="{{ site.url }}">the four-hour tester</a>
+        <a class="site-title" href="{{ site.url | append: site.baseurl }}">the four-hour tester</a>
         <nav class="site-nav">
             <a href="#" class="menu-icon">
                 <svg viewBox="0 0 18 15" width="18px" height="15px">
@@ -10,7 +10,7 @@
         </svg>
             </a>
             <div class="trigger">
-                <a class="page-link" href="{{ site.url }}/about/">About</a>
+                <a class="page-link" href="{{ site.url | append: site.baseurl }}/about/">About</a>
             </div>
         </nav>
     </div>
