@@ -20,9 +20,6 @@ description: > # this means to ignore newlines until "baseurl:"
 url: "https://smallsheds.garden/fourhourtester/"
 # url: "http://127.0.0.1:4000"
 
-# Google analytics
-google_analytics: UA-85869003-1
-
 # Build settings
 markdown: kramdown
 theme: minima
