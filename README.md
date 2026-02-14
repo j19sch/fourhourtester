@@ -1,5 +1,13 @@
 # The four-hour Tester
 
+## Important
+
+This repo is longer maintained and has been moved to Codeberg: https://codeberg.org/joeposaurus/four-hour-tester.
+
+The site itself has moved to https://fourhourtester.smallsheds.garden/index.html
+
+---
+
 ### Contributing an exercise
 
 #### If you're not comfortable with git and GitHub
